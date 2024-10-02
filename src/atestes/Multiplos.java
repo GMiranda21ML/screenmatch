@@ -1,3 +1,5 @@
+package atestes;
+
 import java.util.Scanner;
 
 public class Multiplos {

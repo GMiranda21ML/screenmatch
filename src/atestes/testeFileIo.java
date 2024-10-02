@@ -1,9 +1,10 @@
+package atestes;
+
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
-import java.io.FileNotFoundException;
 
 public class testeFileIo {
     public static void main(String[] args) throws IOException {
